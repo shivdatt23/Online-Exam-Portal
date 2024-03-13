@@ -50,6 +50,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any queries or support, please contact [email address].
+For any queries or support, please contact shivdatt23 and Pradyumna-1 .
 
 Thank you for choosing the Online Exam Portal! We hope it serves your needs efficiently.
